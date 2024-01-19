@@ -6,7 +6,7 @@ public class Test2 {
 		String st1=new String("hello");
 		String str2=new String("hello");
 		System.out.println(st1.compareTo(str2));
-		//System.out.println(str2);
+		System.out.println(str2);
 		
 
 	}
